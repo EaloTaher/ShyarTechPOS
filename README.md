@@ -6,9 +6,7 @@ ShyarTech POS was one of my earlier desktop applications and helped me gain prac
 
 ## Screenshots
 
-### Main Dashboard
 
-![ShyarTech POS Dashboard](./screenshots/dashboard.png)
 
 ### POS / Sales Screen
 
